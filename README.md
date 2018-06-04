@@ -1,2 +1,1 @@
-# iDataCapture-Aitec
-Projet iDataCapture de Aitec Services non terminé
+Site idatacapture utilisant un serveur parse.
